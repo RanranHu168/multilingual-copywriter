@@ -144,9 +144,9 @@ If you're hiring for roles in AI product development, prompt design, or LLM inte
 
 ## 📬 Contact
 
-Ranran Hu
-Email: huranran8@gmail.com
-GitHub: github.com/yourname
-LinkedIn: https://www.linkedin.com/in/ranran-hu-303154152/
+- Ranran Hu
+- Email: huranran8@gmail.com
+- GitHub: github.com/RanranHu168
+- LinkedIn: https://www.linkedin.com/in/ranran-hu-303154152/
 
 ## ⭐️ If you found this project useful or inspiring, please give it a star on GitHub!
